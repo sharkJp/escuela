@@ -15,7 +15,7 @@ Landing page moderna y responsive, diseñada para pequeños negocios y emprended
 - JavaScript
 
 ## Demo
-👉 https://TU-PROYECTO.vercel.app
+👉https://escuela-nu-two.vercel.app/
 
 ## Autor
 Jhonge — Desarrollador Web Freelance
